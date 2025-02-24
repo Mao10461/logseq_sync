@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: jaek7-arcpu
+created: 2025-02-24T16:49:52+08:00
